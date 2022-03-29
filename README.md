@@ -1,6 +1,9 @@
 #Nemo Finder: utility for converting numbers to words using mnemonic's Herigone method
 
-![Drag Racing](Dragster.jpg)
+![nemofinder in searching words](anemonefish.jpg?raw=true "Nemofinder") (image reference = Nhobgood - Nick Hobgood, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons 
+https://commons.wikimedia.org/wiki/File:Anemone_purple_anemonefish.jpg )
+
+
 
 [more info in wikipedia](https://en.wikipedia.org/wiki/Mnemonic_major_system)
 
@@ -117,3 +120,6 @@ agote, aguada, aguado, aguaite, aguate, agudo, agutí, augita, ágata, egida, é
 
 43 is...
 acmé, caima, cama, camao, camio, camá, coima, coime, coma, como, cuaima, cuma, cómo, ocume, ocumo, quema, quemí, quima, quimo
+
+
+
